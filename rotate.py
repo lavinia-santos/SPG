@@ -118,4 +118,4 @@ test_Cn(x1,y1,z1,x2,y2,z2,x3,y3,z3)
 #get the coordinates directly from the .mol file
 #operate all coordinates at once (no 1, 2, 3... manually)
 #attribute atom types to the coordinates (no 1, 2, 3...), so it's possible to check if there is the same atom at the desired position - generalization
-
+#add rotation to other axis as well
